@@ -1,3 +1,3 @@
-# www.newsroom.gojek.com
+# ext-cust.squarespace.com
 
 ## Subdomain Takeover
